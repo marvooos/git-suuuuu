@@ -7,16 +7,28 @@
 	
 	background: #FFFFFF
 }
+/** то как было
 .header{
 	position: absolute;
 	width: 940.6px;
 	height: 0px;
 	left: 250.69px;
 	top: 87.94px;
-	
+	margin: 0 auto;
+
 	border: 1px solid #828282;
 	transform: matrix(1, 0, 0, 1, 0, 0);  
 }
+
+*/
+
+.header{ /** то как стало */
+	width: 940.6px;
+	margin: 0 auto;
+	border-bottom: 1px solid #828282;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
 .headerdiv{
 	display: flex;
 	min-height: 104px;
