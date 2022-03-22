@@ -1,0 +1,59 @@
+.divvvv{
+	position: absolute;
+	width: 1445px;
+	height: 4759px;
+	left: 0px;
+	top: 0px;
+	
+	background: #FFFFFF
+}
+.header{
+	position: absolute;
+	width: 940.6px;
+	height: 0px;
+	left: 250.69px;
+	top: 87.94px;
+	
+	border: 1px solid #828282;
+	transform: matrix(1, 0, 0, 1, 0, 0);  
+}
+.headerdiv{
+	display: flex;
+	min-height: 104px;
+	align-items: center;
+}
+/* ------------------------------------------------------------ */
+.menu_list{
+	list-style:none;
+	font-family: 'Gilroy-Bold';
+}
+
+.menu_link1{
+	position: absolute;
+	left: 17.44%;
+	top: 32.99px;
+ 
+	
+}
+
+.menu_link2{
+	position: absolute;
+    left: 31.62%;
+	top: 32.99px;
+}
+.menu_link3{
+	position: absolute;
+	top: 32.99px;
+	left: 48.09%;
+}
+.menu_link4{
+	position: absolute;
+    left: 61.71%;
+	top: 32.99px;
+}
+.menu_link5{
+	position: absolute;
+    left: 77.48%;
+	top: 32.99px;
+
+}
