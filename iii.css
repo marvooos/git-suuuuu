@@ -1,26 +1,36 @@
 .divvvv{
-	position: absolute;
-	width: 1445px;
-	height: 4759px;
-	left: 0px;
-	top: 0px;
-	
+	width: 940px;
+	margin: 0 auto;
+
 	background: #FFFFFF
 }
+/** то как было
 .header{
 	position: absolute;
 	width: 940.6px;
 	height: 0px;
 	left: 250.69px;
 	top: 87.94px;
-	
+	margin: 0 auto;
+
 	border: 1px solid #828282;
 	transform: matrix(1, 0, 0, 1, 0, 0);  
 }
+
+*/
+
+.header{ /** то как стало */
+	width: 940.6px;
+	margin: 0 auto;
+	border-bottom: 1px solid #828282;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
 .headerdiv{
-	display: flex;
 	min-height: 104px;
 	align-items: center;
+	display: flex;
+	justify-content: space-between;
 }
 /* ------------------------------------------------------------ */
 .menu_list{
@@ -56,4 +66,100 @@
     left: 77.48%;
 	top: 32.99px;
 
+}
+
+@font-face {
+	font-family: Gilroy-Bold;
+	src: url("./fonts/gilroy-bold.ttf") format("truetype");
+}
+
+.top-menu {
+	display: flex;
+	justify-content: space-between; /* Может быть изменено */
+
+	border-bottom: 1px solid #828282;
+}
+
+.top-menu__item {
+	width: 100px;
+	height: 50px;
+	padding-top: 33px;
+	text-align: center;
+}
+
+.top-menu__item a {
+	font-family: Gilroy-Bold;
+	font-size: 18px;
+	line-height: 22px;
+	text-decoration: none;
+	color: #828282;
+}
+
+.top-menu__item-active a {
+	color: #070707;
+}
+
+.top-menu__item-first {
+	text-align: left;
+}
+
+.top-menu__item-last {
+	text-align: right;
+}
+.spase{
+	margin-top: 40px;
+    width: 100px;
+}
+.h1{
+	margin-top: 40px;
+    width: 100px;
+}
+.my_profile{
+
+    display: flex;
+ 
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 940px;
+
+}
+.spases{
+    margin-top: 94px;
+    width: 200px;
+}
+.p{
+	font-weight: 400;
+}
+.spas{
+	margin-top: 69px;
+    margin-right: -50px;
+    transform: rotate(-90deg);
+}
+.ru{
+	border: none;
+    text-decoration: none;
+    outline: none;
+    color: #828282;
+}
+.my_profilee{
+	box-sizing: border-box;
+    margin: 0px;
+}
+.my_photo{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.img{
+	vertical-align: middle;
+    border-style: none;
+}
+.me{
+	
+    margin-top: 100px;
+    padding-top: 120px;
+    justify-content: center;
+    height: 506px;
+    background-color: rgb(246, 246, 246);
+    text-align: center;
 }
