@@ -1,27 +1,30 @@
 <!DOCTYPE html>
-<html>
- <head>
-  <meta charset="utf-8">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Два разных текста на одной строке</title>
-  <style>
-   table.text  {
-    width:  100%; /* Ширина таблицы */
-    border-spacing: 0; /* Расстояние между ячейками */
-   }
-   table.text td {
-    width: 50%; /* Ширина ячеек */
-    vertical-align: top; /* Выравнивание по верхнему краю */
-   }
-   td.rightcol { /* Правая ячейка */ 
-    text-align: right; /* Выравнивание по правому краю */
-   }
-  </style>
+  <link href="test.css" rel="stylesheet"/>
+ 
  </head>
  <body>
-  <table class="text">
-   <tr>
-    <td>Текст слева</td>
-    <td class="rightcol">Текст справа</td>
-   </tr>
+ 
+    <div class="rating_block">
+        <input name="rating" value="5" id="rating_5" type="radio" />
+        <label for="rating_5" class="label_rating"></label>
+       
+        <input name="rating" value="4" id="rating_4" type="radio" />
+        <label for="rating_4" class="label_rating"></label>
+       
+        <input name="rating" value="3" id="rating_3" type="radio" />
+        <label for="rating_3" class="label_rating"></label>
+       
+        <input name="rating" value="2" id="rating_2" type="radio" />
+        <label for="rating_2" class="label_rating"></label>
+       
+        <input name="rating" value="1" id="rating_1" type="radio" />
+        <label for="rating_1" class="label_rating"></label>
+      </div>
   </table>
  </body>
