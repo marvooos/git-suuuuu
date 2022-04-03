@@ -70,7 +70,7 @@
 
 @font-face {
 	font-family: Gilroy-Bold;
-	src: url("./fonts/gilroy-bold.ttf") format("truetype");
+	src: url("./fonts/Gilroy-Bold.ttf") format("truetype");
 }
 
 .top-menu {
@@ -178,16 +178,21 @@
 }
 .skills_adone{
 	margin: 0 0 1rem;
+	width: 167px;
+	display: flex;
+	flex-direction: column;
 }
 .imgee{
-	background: radial-gradient(75.99% 75.64% at 32.94% 22.44%, rgba(52,54,78,0.98) 0%, #0C0824 100%);
     margin-bottom: 23px;
-
+	/*width: 82px;*/
 }
 .textimg{
-	font-size: 1.4rem;
-    font-weight: 700;
-    line-height: 1.7rem;
+	font-family: 'Gilroy-Bold';
+	font-size: 14px;
+	line-height: 17px;
+	color: #828282;
+	margin: 0 auto;
+	width: 80px;
 }
 .textimg .makaka{
 	margin-bottom: 35px;
@@ -198,4 +203,26 @@
 }
 .star::before{
 	content: "\f005";
+}
+
+.skills-stars {
+	margin: 0 auto;
+}
+.skills-star {
+	margin: 0 auto;
+	margin-top: 40px;
+	width: 26px;
+	height: 26px;
+	margin-right: 4px;
+}
+.skill-block .skill-img {
+	width: 82px;
+}
+.skill-block .figma-img {
+	width: 53px;
+	height: 82px;
+}
+
+.skills_adone .figma-stars {
+	margin-top: 17px;
 }
