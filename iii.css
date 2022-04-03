@@ -82,7 +82,7 @@
 
 .top-menu__item {
 	width: 100px;
-	height: 100px;
+	height: 50px;
 	padding-top: 33px;
 	text-align: center;
 }
@@ -106,4 +106,96 @@
 .top-menu__item-last {
 	text-align: right;
 }
+.spase{
+	margin-top: 40px;
+    width: 100px;
+}
+.h1{
+	margin-top: 40px;
+    width: 100px;
+}
+.my_profile{
 
+    display: flex;
+
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 940px;
+
+}
+.spases{
+    margin-top: 94px;
+    width: 200px;
+}
+.p{
+	font-weight: 400;
+}
+.spas{
+	margin-top: 69px;
+    margin-right: -50px;
+    transform: rotate(-90deg);
+}
+.ru{
+	border: none;
+    text-decoration: none;
+    outline: none;
+    color: #828282;
+}
+.my_profilee{
+	box-sizing: border-box;
+    margin: 0px;
+}
+.my_photo{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.img{
+	vertical-align: middle;
+    border-style: none;
+}
+.me{
+
+    margin-top: 100px;
+    padding-top: 120px;
+    justify-content: center;
+    height: 506px;
+    background-color: rgb(246, 246, 246);
+    text-align: center;
+}
+.skills{
+	height: 610px;
+    text-align: center;
+    padding-top: 91px;
+}
+.adone{
+	margin: auto;
+    max-width: 885px;
+    margin-top: 84px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.skills_adone{
+	margin: 0 0 1rem;
+}
+.imgee{
+	background: radial-gradient(75.99% 75.64% at 32.94% 22.44%, rgba(52,54,78,0.98) 0%, #0C0824 100%);
+    margin-bottom: 23px;
+
+}
+.textimg{
+	font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1.7rem;
+}
+.textimg .makaka{
+	margin-bottom: 35px;
+}
+.icon{
+	margin: 4px;
+
+}
+.star::before{
+	content: "\f005";
+}
