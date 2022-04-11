@@ -70,7 +70,7 @@
 
 @font-face {
 	font-family: Gilroy-Bold;
-	src: url("./fonts/Gilroy-Bold.ttf") format("truetype");
+	src: url("./fonts/gilroy-bold.ttf") format("truetype");
 }
 
 .top-menu {
@@ -117,7 +117,7 @@
 .my_profile{
 
     display: flex;
-
+ 
     flex-direction: row;
     justify-content: space-between;
     max-width: 940px;
@@ -155,7 +155,7 @@
     border-style: none;
 }
 .me{
-
+	
     margin-top: 100px;
     padding-top: 120px;
     justify-content: center;
@@ -178,52 +178,99 @@
 }
 .skills_adone{
 	margin: 0 0 1rem;
-	width: 167px;
-	display: flex;
-	flex-direction: column;
 }
 .imgee{
+	background: radial-gradient(75.99% 75.64% at 32.94% 22.44%, rgba(52,54,78,0.98) 0%, #0C0824 100%);
     margin-bottom: 23px;
-	/*width: 82px;*/
+
 }
 .textimg{
-	font-family: 'Gilroy-Bold';
-	font-size: 14px;
-	line-height: 17px;
-	color: #828282;
-	margin: 0 auto;
-	width: 80px;
+	font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1.7rem;
 }
 .textimg .makaka{
 	margin-bottom: 35px;
 }
 .icon{
 	margin: 4px;
-
+	
 }
-.star::before{
+.tar::before{
 	content: "\f005";
 }
+.imger{
+	margin-bottom: 23px;
+}
+.trusl{
 
-.skills-stars {
-	margin: 0 auto;
-}
-.skills-star {
-	margin: 0 auto;
-	margin-top: 40px;
-	width: 26px;
-	height: 26px;
-	margin-right: 4px;
-}
-.skill-block .skill-img {
-	width: 82px;
-}
-.skill-block .figma-img {
-	width: 53px;
-	height: 82px;
-}
 
-.skills_adone .figma-stars {
-	margin-top: 17px;
+    padding-top: 120px;
+    justify-content: center;
+   
+    background-color: rgb(246, 246, 246);
+    text-align: center;
+	
 }
+.figur{
+	margin: 0 0 1rem;
 
+}
+.pof{
+	margin-bottom: 47px;
+	font-size: 3.4rem;
+}
+.ppp{
+	vertical-align: middle;
+    border-style: none;
+}
+.esss{
+	font-size: 1.8rem;
+    line-height: 2.2rem;
+    color: #070707;
+    text-decoration: underline;
+}
+.reebok{
+	vertical-align: middle;
+    border-style: none;
+}
+.ooop{
+	font-size: 1.8rem;
+    line-height: 2.2rem;
+    color: #070707;
+    text-decoration: underline;
+}
+.fig{
+	margin-top: 44px;
+    margin-bottom: 100px;
+}
+.fig2{
+	
+}
+.rebo{
+
+}
+.yyyh{
+	font-size: 1.8rem;
+    line-height: 2.2rem;
+    color: #070707;
+    text-decoration: underline;
+}
+.stolb{
+	height: 630px;
+    padding-top: 114.24px;
+    text-align: center;
+}
+.buts{
+	margin-top: 30px;
+    margin-bottom: 85px;
+    font-weight: 900;
+    outline: none;
+    text-align: center;
+    color: #fff;
+    background-color: #000;
+    border: none;
+    width: 180.5px;
+    height: 42px;
+    border-radius: 25px;
+}

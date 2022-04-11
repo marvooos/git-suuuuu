@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="287245e3-94df-443f-a0fe-dc301b4ffbea" name="Changes" comment="Картинки скилов">
+      <change afterPath="$PROJECT_DIR$/BSPP2266.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vector (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vector (4).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h/test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h/test.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26keL7ATNyDWoWkEJ4UG4Bk7ICR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="287245e3-94df-443f-a0fe-dc301b4ffbea" name="Changes" comment="" />
+      <created>1647971953394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647971953394</updated>
+      <workItem from="1647971954630" duration="640000" />
+      <workItem from="1648142838799" duration="3856000" />
+      <workItem from="1648146702574" duration="598000" />
+      <workItem from="1649007227916" duration="445000" />
+      <workItem from="1649007705153" duration="5616000" />
+    </task>
+    <task id="LOCAL-00001" summary="верхнее меню верстка #2">
+      <created>1648146082376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648146082376</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Конфликты">
+      <created>1649007903198</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649007903198</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Картинки скилов">
+      <created>1649007928449</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649007928449</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Верстка скилов">
+      <created>1649014272572</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649014272572</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <created>1649014531696</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649014531696</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="верхнее меню верстка #2" />
+    <MESSAGE value="Конфликты" />
+    <MESSAGE value="Картинки скилов" />
+    <MESSAGE value="Верстка скилов" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+</project>
