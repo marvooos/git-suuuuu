@@ -257,7 +257,7 @@
     text-decoration: underline;
 }
 .stolb{
-	height: 630px;
+	height: 280px;
     padding-top: 114.24px;
     text-align: center;
 }
@@ -273,4 +273,20 @@
     width: 180.5px;
     height: 42px;
     border-radius: 25px;
+}
+.in{
+
+}
+.iconfl{
+	margin: auto;
+    width: 343px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 46px;
+}
+.lin{
+	color: #828282;
+    font-size: 1.4rem;
+    line-height: 1.7rem;
+    font-weight: 400;
 }
